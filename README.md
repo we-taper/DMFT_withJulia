@@ -12,3 +12,11 @@ Just play it!
 
 
 *_forv06* files are for Julia 0.6.x. 
+
+## Requirements
+
+```julia
+import Pkg; Pkg.add("Dierckx")
+import Pkg; Pkg.add("FFTW")
+import Pkg; Pkg.add("Plots")
+```
